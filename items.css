@@ -1,0 +1,27 @@
+.explore {
+    padding: 10px;
+    max-width: 1500px;
+    margin: 0 auto; 
+}
+
+.items {
+    margin: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.items ul {
+    display: flex;
+}
+
+.items button {
+    padding: 20px;
+    height: 40px;
+    width: 40px;
+    
+}
+.explore__card {
+    margin: 0 30px;
+    width: 150px;
+    font-size: 13px;
+}
